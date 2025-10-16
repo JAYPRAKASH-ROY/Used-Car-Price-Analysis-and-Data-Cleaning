@@ -1,0 +1,13 @@
+{
+  "rows_raw": 816,
+  "rows_clean": 816,
+  "features": [
+    "company",
+    "fuel_type",
+    "year_num",
+    "kms_num"
+  ],
+  "MAE": 233640.22998767736,
+  "MAPE_%": 57.52608250973186,
+  "R2": 0.14392251228608854
+}
